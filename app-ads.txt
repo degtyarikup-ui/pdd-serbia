@@ -1,0 +1,4 @@
+# app-ads.txt for PDD Russia 2026 (ru.pdd.pdd_app)
+# Yandex Advertising Network (РСЯ)
+yandex.ru, 19816566, DIRECT, f08c47fec0942fa0
+yandex.ru, 19816566, DIRECT

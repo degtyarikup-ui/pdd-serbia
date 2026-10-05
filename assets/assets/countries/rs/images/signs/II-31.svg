@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.302082mm"
+   height="46.316032mm"
+   viewBox="0 0 46.302082 46.316032"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Serbia_road_sign_II-31.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4"
+     inkscape:cx="103"
+     inkscape:cy="88.875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.872915,-88.370833)">
+    <path
+       id="path1144"
+       d="m 107.0257,88.596409 c 12.64047,0 22.92372,10.300675 22.92372,22.941161 0,12.62652 -10.28325,22.92372 -22.92372,22.92372 -12.640481,0 -22.927209,-10.2972 -22.927209,-22.92372 0,-12.640486 10.286728,-22.941161 22.927209,-22.941161 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#343132;stroke-width:0.451152;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1147"
+       d="m 109.47708,110.88201 -10.719121,0.94149 c -1.90741,0.16043 -3.556775,1.30763 -4.27859,3.07556 v -9.58932 c 0.693891,1.82719 2.357233,3.07904 4.302995,3.25687 l 11.022496,0.99381 c 1.87951,0.16389 3.40334,1.60752 3.67532,3.47307 h 1.45758 c 0.2999,-1.37388 1.60752,-2.28748 3.00931,-2.10964 1.39132,0.17782 2.41302,1.40179 2.35723,2.80357 -0.0524,1.40527 -1.17164,2.53507 -2.58738,2.60481 -1.40178,0.0662 -2.62921,-0.9415 -2.821,-2.34328 h -1.38783 c -0.19176,2.0957 -1.94925,3.68927 -4.04496,3.70322 l -8.15965,0.0554 c -0.89968,0.0138 -1.729557,-0.5056 -2.137539,-1.32159 -0.407933,-0.80549 -0.313833,-1.78536 0.244048,-2.50717 0.543943,-0.72187 1.363431,-0.95198 2.357231,-0.88575 h 10.33904 c -0.31383,-1.44363 -1.27974,-2.31538 -2.62922,-2.15149 z m -8.20149,3.10694 h 10.86907 c -0.20224,1.52382 -0.96591,2.0155 -2.57343,2.36769 h -8.21195 c -0.44984,0.0554 -0.83336,-0.16043 -1.07749,-0.54394 -0.24405,-0.394 -0.24405,-0.88575 0,-1.27974 0.24405,-0.38006 0.53001,-0.59979 0.9938,-0.54394 z"
+       style="fill:#343132;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.191002;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1146"
+       style="fill:#eb3d00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.48703"
+       d="m 107.02551,89.810022 c -11.96051,0 -21.713406,9.752897 -21.713406,21.727358 0,11.95702 9.752896,21.7103 21.713406,21.7103 11.95702,0 21.7103,-9.75328 21.7103,-21.7103 0,-11.974461 -9.75328,-21.727358 -21.7103,-21.727358 z m 0,5.43636 c 8.96166,0 16.29151,7.311898 16.29151,16.290998 0,3.66318 -1.22535,7.05073 -3.28559,9.77666 L 97.243675,98.526285 c 2.728339,-2.057569 6.117635,-3.279903 9.781835,-3.279903 z m -13.521142,7.222818 22.588802,22.57433 c -2.59626,1.74835 -5.71772,2.77141 -9.06766,2.77141 -8.965154,0 -16.290998,-7.3159 -16.290998,-16.27756 0,-3.35355 1.022277,-6.47376 2.769856,-9.06818 z"
+       sodipodi:nodetypes="sssssssccsccssc" />
+  </g>
+</svg>

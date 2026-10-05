@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 175.39198 175.39199"
+   height="49.499516mm"
+   width="49.499516mm"
+   sodipodi:docname="Serbia_road_sign_II-12.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="12.094739"
+     inkscape:cx="158.99474"
+     inkscape:cy="91.527396"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <foreignObject
+       id="foreignObject2819"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+    <foreignObject
+       id="foreignObject2819"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path26322"
+     style="fill:#ffffff;fill-opacity:1;stroke:#343132;stroke-width:1.77164;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1"
+     d="m 87.69596,0.88586 c 47.9359,0 86.81018,38.874339 86.81018,86.810177 0,47.935903 -38.87428,86.810173 -86.81018,86.810173 -47.935838,0 -86.810177,-38.8744 -86.810177,-86.810173 0,-47.935587 38.874276,-86.810177 86.810177,-86.810177 z" />
+  <path
+     id="path26314-3"
+     style="display:inline;fill:#eb3d00;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     d="m 87.679367,5.2075197 c -45.423,0 -82.4707054,37.0477063 -82.4707054,82.4707063 0,45.423504 37.0477054,82.468874 82.4707054,82.468874 45.423103,0 82.470713,-37.04537 82.470713,-82.468874 0,-45.423 -37.04761,-82.4707063 -82.470713,-82.4707063 z m -0.0073,21.1505133 A 61.338753,61.338684 0 0 1 149.01055,87.696536 61.338753,61.338684 0 0 1 87.672043,149.03504 61.338753,61.338684 0 0 1 26.33354,87.696536 61.338753,61.338684 0 0 1 87.672043,26.358033 Z" />
+  <path
+     id="path9809"
+     style="fill:#343132;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.04364"
+     d="M 95.776981 43.732912 C 95.033605 43.730996 94.275144 43.876804 93.539432 44.183351 C 90.473966 45.409538 89.125378 48.720361 90.351565 51.66321 L 81.154177 55.341799 L 60.922854 75.573123 L 48.048708 75.573123 L 50.132448 79.865115 C 40.568194 80.846064 32.965317 87.712295 31.003419 97.153934 L 35.540773 97.153934 C 35.172917 98.625358 34.927369 99.851887 34.927369 101.44593 C 34.927369 111.01019 42.774552 118.73658 52.216188 118.73658 C 61.780442 118.73658 69.629519 111.01019 69.629519 101.44593 L 73.553469 105.8606 L 97.831424 105.8606 L 104.32984 101.44593 C 104.32984 104.38878 104.94386 106.59616 106.17005 109.17115 C 110.4617 117.75446 120.88319 121.18802 129.34388 116.89637 C 137.92718 112.60471 141.36082 102.30401 137.19178 93.720706 L 141.11573 91.759647 C 136.3336 82.440626 126.03374 77.780907 115.97901 80.478518 L 110.82825 66.868288 L 95.623172 66.868288 L 92.435306 54.360353 C 94.151967 55.463921 96.114763 55.586788 97.831424 54.851076 C 100.77428 53.624889 102.24548 50.314065 101.01929 47.371217 C 100.09965 45.072116 98.007107 43.738659 95.776981 43.732912 z M 86.918338 71.160281 L 108.13111 71.160281 L 109.72596 75.573123 L 86.918338 75.573123 L 86.918338 71.160281 z M 121.1554 92.713626 C 124.32744 92.66962 127.1211 94.013351 128.73047 96.542362 C 131.5507 100.58878 130.44785 105.98281 126.52405 108.68042 C 122.47764 111.25541 117.20445 110.1525 114.50684 106.35132 C 111.80923 102.42753 112.91397 97.031721 116.83777 94.33411 L 120.271 103.40882 L 123.82691 101.44593 L 120.51636 92.741092 C 120.73094 92.725765 120.94393 92.71656 121.1554 92.713626 z M 52.216188 92.741092 C 56.998315 92.741092 60.922854 96.663797 60.922854 101.44593 C 60.922854 106.35068 56.998315 110.02991 52.216188 110.02991 C 47.556679 110.02991 43.634035 106.35068 43.634035 101.44593 C 43.634035 96.663797 47.556679 92.741092 52.216188 92.741092 z M 69.629519 92.741092 L 81.154177 92.741092 L 75.391848 101.44593 L 69.629519 92.741092 z M 92.803348 92.741092 L 98.444827 92.741092 L 92.803348 101.44593 L 86.918338 101.44593 L 92.803348 92.741092 z "
+     inkscape:label="Motor" />
+</svg>

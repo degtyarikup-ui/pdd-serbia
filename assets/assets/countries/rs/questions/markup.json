@@ -1,0 +1,38 @@
+{
+  "Horizontalna signalizacija": [
+    {
+      "title": "Puna razdelna linija",
+      "description": "Razdvaja suprotne smerove ili trake; zabranjeno je preći je ili voziti po njoj."
+    },
+    {
+      "title": "Isprekidana razdelna linija",
+      "description": "Razdvaja trake; sme se preći kada je to bezbedno (npr. pri preticanju ili promeni trake)."
+    },
+    {
+      "title": "Dvostruka puna linija",
+      "description": "Razdvaja kolovozne trake suprotnih smerova; zabranjeno je preći je."
+    },
+    {
+      "title": "Zaustavna linija",
+      "description": "Poprečna puna linija na mestu na kome se vozilo zaustavlja (STOP, semafor)."
+    },
+    {
+      "title": "Pešački prelaz („zebra“)",
+      "description": "Obeleženi deo kolovoza namenjen prelasku pešaka."
+    },
+    {
+      "title": "Strelice za usmeravanje",
+      "description": "Označavaju dozvoljene smerove kretanja iz trake pred raskrsnicu."
+    }
+  ],
+  "Vertikalna signalizacija": [
+    {
+      "title": "Oznake na ivičnjacima",
+      "description": "Naizmenične oznake na ivičnjaku ističu mesta na kojima je zaustavljanje ograničeno ili opasno."
+    },
+    {
+      "title": "Oznake na preprekama",
+      "description": "Kose linije na branicima i preprekama upozoravaju na fizičku prepreku uz kolovoz."
+    }
+  ]
+}

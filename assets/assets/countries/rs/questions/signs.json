@@ -1,0 +1,614 @@
+{
+  "Znakovi opasnosti": {
+    "I-1": {
+      "number": "I-1",
+      "title": "Krivina nalevo",
+      "image": "I-1.svg",
+      "description": "Najavljuje nailazak na opasnu krivinu nalevo, pa treba smanjiti brzinu i prilagoditi vožnju."
+    },
+    "I-1.1": {
+      "number": "I-1.1",
+      "title": "Krivina nadesno",
+      "image": "I-1.1.svg",
+      "description": "Najavljuje nailazak na opasnu krivinu nadesno, pa treba smanjiti brzinu i prilagoditi vožnju."
+    },
+    "I-2": {
+      "number": "I-2",
+      "title": "Dvostruka krivina ili više uzastopnih krivina od kojih je prva nalevo",
+      "image": "I-2.svg",
+      "description": "Najavljuje dvostruku ili niz uzastopnih krivina od kojih je prva nalevo, pa treba smanjiti brzinu."
+    },
+    "I-2.1": {
+      "number": "I-2.1",
+      "title": "Dvostruka krivina ili više uzastopnih krivina od kojih je prva nadesno",
+      "image": "I-2.1.svg",
+      "description": "Najavljuje dvostruku ili niz uzastopnih krivina od kojih je prva nadesno, pa treba smanjiti brzinu."
+    },
+    "I-3": {
+      "number": "I-3",
+      "title": "Opasan uspon",
+      "image": "I-3.svg",
+      "description": "Označava deo puta sa opasnim usponom (strmim nagibom naviše), pa treba prilagoditi brzinu i izbor stepena prenosa."
+    },
+    "I-4": {
+      "number": "I-4",
+      "title": "Opasna nizbrdica",
+      "image": "I-4.svg",
+      "description": "Označava deo puta sa opasnom nizbrdicom (strmim padom), pa treba smanjiti brzinu i kočiti motorom."
+    },
+    "I-5.1": {
+      "number": "I-5.1",
+      "title": "Suženje puta s desne strane",
+      "image": "I-5.1.svg",
+      "description": "Najavljuje suženje kolovoza sa desne strane, pa treba voziti opreznije i po potrebi propustiti druga vozila."
+    },
+    "I-5.2": {
+      "number": "I-5.2",
+      "title": "Suženje puta s leve strane",
+      "image": "I-5.2.svg",
+      "description": "Najavljuje suženje kolovoza sa leve strane, pa treba voziti opreznije i po potrebi propustiti druga vozila."
+    },
+    "I-7": {
+      "number": "I-7",
+      "title": "Blizina obale",
+      "image": "I-7.svg",
+      "description": "Upozorava na blizinu obale reke, jezera ili nasipa, pa treba voziti krajnje oprezno."
+    },
+    "I-8": {
+      "number": "I-8",
+      "title": "Neravan kolovoz",
+      "image": "I-8.svg",
+      "description": "Najavljuje deo puta sa neravnim kolovozom (opasne izbočine i ulegnuća), pa treba smanjiti brzinu."
+    },
+    "I-9": {
+      "number": "I-9",
+      "title": "Neravan kolovoz — opasno ulegnuće",
+      "image": "I-9.svg",
+      "description": "Najavljuje opasno ulegnuće (udubljenje) na kolovozu, pa treba smanjiti brzinu."
+    },
+    "I-10": {
+      "number": "I-10",
+      "title": "Neravan kolovoz — opasna izbočina",
+      "image": "I-10.svg",
+      "description": "Najavljuje opasnu izbočinu na kolovozu, pa treba smanjiti brzinu."
+    },
+    "I-11": {
+      "number": "I-11",
+      "title": "Klizav kolovoz",
+      "image": "I-11.svg",
+      "description": "Označava deo puta na kome je kolovoz u određenim uslovima klizav, pa treba smanjiti brzinu i izbegavati nagle radnje."
+    },
+    "I-12": {
+      "number": "I-12",
+      "title": "Kamenje pršti",
+      "image": "I-12.svg",
+      "description": "Upozorava da sa kolovoza može da prsne sitno kamenje ili nasuti agregat, pa treba smanjiti brzinu i povećati odstojanje."
+    },
+    "I-13": {
+      "number": "I-13",
+      "title": "Odronjavanje kamenja",
+      "image": "I-13.svg",
+      "description": "Upozorava na opasnost od odrona kamenja i prisustva kamenja na kolovozu sa leve strane, pa treba voziti oprezno."
+    },
+    "I-13.1": {
+      "number": "I-13.1",
+      "title": "Odroni sa desne strane",
+      "image": "I-13.1.svg",
+      "description": "Najavljuje deo puta na kome su mogući odroni kamenja sa desne strane i kamenje na kolovozu; smanjite brzinu i budite oprezni."
+    },
+    "I-14": {
+      "number": "I-14",
+      "title": "Obeleženi pešački prelaz",
+      "image": "I-14.svg",
+      "description": "Najavljuje obeleženi pešački prelaz; smanjite brzinu i propustite pešake koji prelaze ili stupaju na kolovoz."
+    },
+    "I-15": {
+      "number": "I-15",
+      "title": "Deca na putu",
+      "image": "I-15.svg",
+      "description": "Blizina škole, vrtića ili igrališta gde je moguć nagli izlazak dece na kolovoz; vozite izuzetno oprezno."
+    },
+    "I-16": {
+      "number": "I-16",
+      "title": "Biciklisti na putu",
+      "image": "I-16.svg",
+      "description": "Deo puta kojim se kreću ili na koji izlaze biciklisti; prilagodite brzinu i vozite opreznije."
+    },
+    "I-17": {
+      "number": "I-17",
+      "title": "Stoka na putu",
+      "image": "I-17.svg",
+      "description": "Deo puta na kome se na kolovozu može naći stoka (domaće životinje); smanjite brzinu i budite spremni da se zaustavite."
+    },
+    "I-18": {
+      "number": "I-18",
+      "title": "Divljač na putu",
+      "image": "I-18.svg",
+      "description": "Deo puta na kome divljač može iznenada izaći na kolovoz; smanjite brzinu, naročito u zoru i sumrak."
+    },
+    "I-19": {
+      "number": "I-19",
+      "title": "Radovi na putu",
+      "image": "I-19.svg",
+      "description": "Deo puta na kome se izvode radovi, uz moguće prisustvo ljudi, mašina i prepreka; vozite sporije i oprezno."
+    },
+    "I-22": {
+      "number": "I-22",
+      "title": "Bočni vetar sa leve strane",
+      "image": "I-22.svg",
+      "description": "Deo puta izložen jakom bočnom vetru sa leve strane; čvrsto držite volan i prilagodite brzinu."
+    },
+    "I-23": {
+      "number": "I-23",
+      "title": "Saobraćaj u oba smera",
+      "image": "I-23.svg",
+      "description": "Najavljuje deo puta na kome se, posle jednosmernog saobraćaja, ponovo odvija saobraćaj u oba smera; držite se desne strane."
+    },
+    "I-24": {
+      "number": "I-24",
+      "title": "Tunel",
+      "image": "I-24.svg",
+      "description": "Najavljuje približavanje tunelu; upalite propisana svetla, ne zaustavljajte se i ne pretičite u tunelu."
+    },
+    "I-25": {
+      "number": "I-25",
+      "title": "Opasnost na putu",
+      "image": "I-25.svg",
+      "description": "Upozorava na opasnost na putu koja se ne može označiti drugim znakom (ostale opasnosti); smanjite brzinu i budite oprezni."
+    },
+    "I-26": {
+      "number": "I-26",
+      "title": "Raskrsnica puteva iste važnosti",
+      "image": "I-26.svg",
+      "description": "Približavanje raskrsnici puteva jednake važnosti na kojoj prvenstvo prolaza ima vozilo koje nailazi sa desne strane (pravilo desne strane)."
+    },
+    "I-27": {
+      "number": "I-27",
+      "title": "Raskrsnica sa sporednim putem",
+      "image": "I-27.svg",
+      "description": "Najavljuje raskrsnicu na kojoj se putu sa prvenstvom prolaza priključuje sporedni put; pazite na vozila koja mogu naići sa sporednog puta."
+    },
+    "I-30": {
+      "number": "I-30",
+      "title": "Kružni tok saobraćaja",
+      "image": "I-30.svg",
+      "description": "Najavljuje približavanje raskrsnici sa kružnim tokom saobraćaja; prilagodite brzinu i propustite vozila koja se već kreću u krugu."
+    },
+    "I-31": {
+      "number": "I-31",
+      "title": "Tramvajska pruga",
+      "image": "I-31.svg",
+      "description": "Najavljuje mesto na kome put u istom nivou prelazi preko tramvajske pruge; obratite pažnju na tramvaje i po potrebi se zaustavite."
+    },
+    "I-32": {
+      "number": "I-32",
+      "title": "Prelaz puta preko železničke pruge sa branicima ili polubranicima",
+      "image": "I-32.svg",
+      "description": "Najavljuje približavanje prelazu puta preko železničke pruge koji je obezbeđen branicima ili polubranicima, pa vozač mora smanjiti brzinu i biti spreman da se zaustavi."
+    },
+    "I-33": {
+      "number": "I-33",
+      "title": "Prelaz puta preko železničke pruge bez branika ili polubranika",
+      "image": "I-33.svg",
+      "description": "Upozorava na približavanje prelazu preko železničke pruge koji nije obezbeđen branicima ni polubranicima, pa vozač mora naročito oprezno prići i propustiti voz."
+    },
+    "I-34": {
+      "number": "I-34",
+      "title": "Približavanje prelazu puta preko železničke pruge sa jednim kolosekom",
+      "image": "I-34.svg",
+      "description": "Označava blizinu prelaza preko železničke pruge sa jednim kolosekom, uz obavezu vozača da smanji brzinu i uveri se da ne nailazi voz."
+    },
+    "I-34.1": {
+      "number": "I-34.1",
+      "title": "Približavanje prelazu puta preko železničke pruge sa dva ili više koloseka",
+      "image": "I-34.1.svg",
+      "description": "Označava blizinu prelaza preko železničke pruge sa dva ili više koloseka, pa vozač mora biti naročito oprezan jer voz može naići sa više strana."
+    },
+    "I-37": {
+      "number": "I-37",
+      "title": "Nestabilna bankina",
+      "image": "I-37.svg",
+      "description": "Upozorava na deo puta sa mekom ili nestabilnom bankinom, pa vozač ne sme zalaziti na ivicu kolovoza zbog opasnosti od proklizavanja ili prevrtanja."
+    },
+    "I-38": {
+      "number": "I-38",
+      "title": "Kolona zaustavljenih vozila",
+      "image": "I-38.svg",
+      "description": "Upozorava na deo puta na kome se često stvaraju kolone zaustavljenih ili usporenih vozila, pa vozač mora smanjiti brzinu i prilagoditi vožnju."
+    }
+  },
+  "Znakovi izričitih naredbi": {
+    "II-1": {
+      "number": "II-1",
+      "title": "Ustupanje prvenstva prolaza",
+      "image": "II-1.svg",
+      "description": "Obavezuje vozača da ustupi prvenstvo prolaza vozilima koja se kreću putem na koji nailazi."
+    },
+    "II-2": {
+      "number": "II-2",
+      "title": "Obavezno zaustavljanje",
+      "image": "II-2.svg",
+      "description": "Obavezuje vozača da se zaustavi i ustupi prvenstvo prolaza svim vozilima na putu sa prvenstvom pre nego što nastavi kretanje."
+    },
+    "II-3": {
+      "number": "II-3",
+      "title": "Zabrana saobraćaja u oba smera",
+      "image": "II-3.svg",
+      "description": "Zabranjuje saobraćaj svim vozilima u oba smera na tom putu."
+    },
+    "II-4": {
+      "number": "II-4",
+      "title": "Zabrana saobraćaja u jednom smeru",
+      "image": "II-4.svg",
+      "description": "Zabranjuje ulazak i saobraćaj svih vozila u smeru u kome je znak postavljen."
+    },
+    "II-5": {
+      "number": "II-5",
+      "title": "Zabrana saobraćaja za sva motorna vozila osim za motocikle bez prikolice",
+      "image": "II-5.svg",
+      "description": "Zabranjuje saobraćaj svim motornim vozilima, izuzev motocikala bez bočne prikolice."
+    },
+    "II-6": {
+      "number": "II-6",
+      "title": "Zabrana saobraćaja za autobuse",
+      "image": "II-6.svg",
+      "description": "Zabranjuje saobraćaj autobusima na tom delu puta."
+    },
+    "II-7": {
+      "number": "II-7",
+      "title": "Zabrana saobraćaja za teretna vozila",
+      "image": "II-7.svg",
+      "description": "Zabranjuje saobraćaj teretnim vozilima čija najveća dozvoljena masa prelazi propisanu ili na znaku označenu vrednost."
+    },
+    "II-12": {
+      "number": "II-12",
+      "title": "Zabrana saobraćaja za motocikle",
+      "image": "II-12.svg",
+      "description": "Zabranjuje saobraćaj motociklima na tom delu puta."
+    },
+    "II-13": {
+      "number": "II-13",
+      "title": "Zabrana saobraćaja za mopede",
+      "image": "II-13.svg",
+      "description": "Zabranjuje saobraćaj mopedima na tom delu puta."
+    },
+    "II-14": {
+      "number": "II-14",
+      "title": "Zabrana saobraćaja za bicikle",
+      "image": "II-14.svg",
+      "description": "Zabranjen je saobraćaj za bicikliste, koji ovim putem ne smeju da voze bicikl."
+    },
+    "II-17": {
+      "number": "II-17",
+      "title": "Zabrana saobraćaja za pešake",
+      "image": "II-17.svg",
+      "description": "Zabranjeno je kretanje pešaka na delu puta na koji se znak odnosi."
+    },
+    "II-20": {
+      "number": "II-20",
+      "title": "Zabrana saobraćaja za vozila čija ukupna širina prelazi određenu širinu",
+      "image": "II-20.svg",
+      "description": "Zabranjen je saobraćaj vozilima čija je ukupna širina veća od vrednosti označene na znaku."
+    },
+    "II-21": {
+      "number": "II-21",
+      "title": "Zabrana saobraćaja za vozila čija ukupna visina prelazi određenu visinu",
+      "image": "II-21.svg",
+      "description": "Zabranjen je saobraćaj vozilima čija je ukupna visina veća od vrednosti označene na znaku."
+    },
+    "II-22": {
+      "number": "II-22",
+      "title": "Zabrana saobraćaja za vozila čija ukupna masa prelazi određenu masu",
+      "image": "II-22.svg",
+      "description": "Zabranjen je saobraćaj vozilima čija ukupna masa prelazi vrednost označenu na znaku."
+    },
+    "II-23": {
+      "number": "II-23",
+      "title": "Zabrana saobraćaja za vozila čije osovinsko opterećenje prelazi određenu masu",
+      "image": "II-23.svg",
+      "description": "Zabranjen je saobraćaj vozilima čije osovinsko opterećenje prelazi vrednost označenu na znaku."
+    },
+    "II-24": {
+      "number": "II-24",
+      "title": "Zabrana saobraćaja za vozila čija ukupna dužina prelazi određenu dužinu",
+      "image": "II-24.svg",
+      "description": "Zabranjen je saobraćaj vozilima čija je ukupna dužina veća od vrednosti označene na znaku."
+    },
+    "II-25": {
+      "number": "II-25",
+      "title": "Najmanje odstojanje između vozila",
+      "image": "II-25.svg",
+      "description": "Vozač mora da održava odstojanje između svog i vozila ispred najmanje onoliko koliko je označeno na znaku."
+    },
+    "II-26": {
+      "number": "II-26",
+      "title": "Zabrana skretanja ulevo",
+      "image": "II-26.svg",
+      "description": "Na raskrsnici ili mestu na koje se znak odnosi zabranjeno je skretanje ulevo."
+    },
+    "II-26.1": {
+      "number": "II-26.1",
+      "title": "Zabrana skretanja udesno",
+      "image": "II-26.1.svg",
+      "description": "Na raskrsnici ili mestu na koje se znak odnosi zabranjeno je skretanje udesno."
+    },
+    "II-27": {
+      "number": "II-27",
+      "title": "Zabrana polukružnog okretanja",
+      "image": "II-27.svg",
+      "description": "Zabranjeno je polukružno okretanje vozila na delu puta na koji se znak odnosi."
+    },
+    "II-28": {
+      "number": "II-28",
+      "title": "Zabrana preticanja svih motornih vozila osim motocikala bez prikolice",
+      "image": "II-28.svg",
+      "description": "Zabranjeno je preticanje drugih motornih vozila, osim jednotračnih vozila (motocikala i mopeda)."
+    },
+    "II-29": {
+      "number": "II-29",
+      "title": "Zabrana preticanja za teretna vozila",
+      "image": "II-29.svg",
+      "description": "Zabranjeno je da teretno vozilo čija najveća dozvoljena masa prelazi 3,5 tone pretiče druga motorna vozila."
+    },
+    "II-30": {
+      "number": "II-30",
+      "title": "Ograničenje brzine",
+      "image": "II-30.svg",
+      "description": "Vozač ne sme voziti brzinom većom od one koja je označena na znaku."
+    },
+    "II-31": {
+      "number": "II-31",
+      "title": "Zabrana davanja zvučnih znakova",
+      "image": "II-31.svg",
+      "description": "Zabranjeno je davanje zvučnih znakova (upotreba sirene), osim radi izbegavanja neposredne opasnosti."
+    },
+    "II-33": {
+      "number": "II-33",
+      "title": "Prvenstvo prolaza za vozila iz suprotnog smera",
+      "image": "II-33.svg",
+      "description": "Vozač mora da propusti vozila koja nailaze iz suprotnog smera pre ulaska u suženi deo puta."
+    },
+    "II-34": {
+      "number": "II-34",
+      "title": "Zabrana zaustavljanja i parkiranja",
+      "image": "II-34.svg",
+      "description": "Zabranjeno je zaustavljanje i parkiranje vozila na delu puta na koji se znak odnosi."
+    },
+    "II-35": {
+      "number": "II-35",
+      "title": "Zabrana parkiranja",
+      "image": "II-35.svg",
+      "description": "Zabranjeno je parkiranje vozila, dok je zaustavljanje dozvoljeno."
+    },
+    "II-38": {
+      "number": "II-38",
+      "title": "Najmanja dozvoljena brzina",
+      "image": "II-38.svg",
+      "description": "Vozač mora da se kreće brzinom koja nije manja od vrednosti u km/h označene na znaku."
+    },
+    "II-39": {
+      "number": "II-39",
+      "title": "Obavezni lanci za sneg",
+      "image": "II-39.svg",
+      "description": "Obavezna je upotreba lanaca za sneg na najmanje dva pogonska točka."
+    },
+    "II-40": {
+      "number": "II-40",
+      "title": "Obavezna biciklistička staza",
+      "image": "II-40.svg",
+      "description": "Staza je namenjena isključivo biciklistima, koji su dužni da je koriste."
+    },
+    "II-41": {
+      "number": "II-41",
+      "title": "Obavezna pešačka staza",
+      "image": "II-41.svg",
+      "description": "Staza je namenjena isključivo pešacima, koji su dužni da je koriste."
+    },
+    "II-43": {
+      "number": "II-43",
+      "title": "Obavezan smer",
+      "image": "II-43.svg",
+      "description": "Vozač je dužan da nastavi kretanje pravo u smeru koji pokazuje strelica."
+    },
+    "II-43.1": {
+      "number": "II-43.1",
+      "title": "Obavezan smer",
+      "image": "II-43.1.svg",
+      "description": "Vozač je dužan da skrene desno u smeru koji pokazuje strelica."
+    },
+    "II-43.2": {
+      "number": "II-43.2",
+      "title": "Obavezan smer",
+      "image": "II-43.2.svg",
+      "description": "Vozač je dužan da skrene levo u smeru koji pokazuje strelica."
+    },
+    "II-44": {
+      "number": "II-44",
+      "title": "Dozvoljeni smerovi",
+      "image": "II-44.svg",
+      "description": "Dozvoljeno je kretanje pravo ili skretanje levo u smerovima koje pokazuju strelice."
+    },
+    "II-44.1": {
+      "number": "II-44.1",
+      "title": "Dozvoljeni smerovi",
+      "image": "II-44.1.svg",
+      "description": "Dozvoljeno je kretanje pravo ili skretanje desno u smerovima koje pokazuju strelice."
+    },
+    "II-45": {
+      "number": "II-45",
+      "title": "Obavezno obilaženje sa desne strane",
+      "image": "II-45.svg",
+      "description": "Vozač je dužan da prepreku ili saobraćajno ostrvo obiđe sa desne strane."
+    },
+    "II-45.1": {
+      "number": "II-45.1",
+      "title": "Obavezno obilaženje sa leve strane",
+      "image": "II-45.1.svg",
+      "description": "Vozač je dužan da prepreku ili saobraćajno ostrvo obiđe sa leve strane."
+    },
+    "II-45.2": {
+      "number": "II-45.2",
+      "title": "Kružni tok saobraćaja",
+      "image": "II-45.2.svg",
+      "description": "Obavezno je kretanje u kružnom toku saobraćaja u smeru koji pokazuju strelice."
+    },
+    "II-46": {
+      "number": "II-46",
+      "title": "Obavezno polukružno okretanje",
+      "image": "II-46.svg",
+      "description": "Označava mesto na kome je vozač dužan da izvrši polukružno okretanje (okretanje za 180 stepeni) u smeru koji pokazuje strelica."
+    }
+  },
+  "Znakovi obaveštenja": {
+    "III-1": {
+      "number": "III-1",
+      "title": "Prvenstvo prolaza u odnosu na vozila iz suprotnog smera",
+      "image": "III-1.svg",
+      "description": "Obaveštava vozača da na suženom delu puta ima prvenstvo prolaza u odnosu na vozila koja dolaze iz suprotnog smera."
+    },
+    "III-2": {
+      "number": "III-2",
+      "title": "Put sa jednosmernim saobraćajem",
+      "image": "III-2.svg",
+      "description": "Obaveštava da se saobraćaj na tom putu odvija samo u jednom smeru, u pravcu koji pokazuje strelica."
+    },
+    "III-3": {
+      "number": "III-3",
+      "title": "Put sa prvenstvom prolaza",
+      "image": "III-3.svg",
+      "description": "Obaveštava vozača da se nalazi na putu sa prvenstvom prolaza u odnosu na vozila sa puteva koji ga preseca."
+    },
+    "III-4": {
+      "number": "III-4",
+      "title": "Prestanak puta sa prvenstvom prolaza",
+      "image": "III-4.svg",
+      "description": "Obaveštava vozača da se završava deo puta sa prvenstvom prolaza, pa dalje mora poštovati opšta pravila prvenstva."
+    },
+    "III-5": {
+      "number": "III-5",
+      "title": "Prelaz biciklističke staze preko kolovoza",
+      "image": "III-5.svg",
+      "description": "Obaveštava vozača da se približava mestu na kome biciklistička staza prelazi preko kolovoza, gde treba propustiti bicikliste."
+    },
+    "III-6": {
+      "number": "III-6",
+      "title": "Pešački prelaz",
+      "image": "III-6.svg",
+      "description": "Obeležava mesto na kome pešaci prelaze kolovoz; vozač je dužan da propusti pešake koji su na prelazu ili stupaju na njega."
+    },
+    "III-9": {
+      "number": "III-9",
+      "title": "Slepi put",
+      "image": "III-9.svg",
+      "description": "Obaveštava vozača da put kojim namerava da se kreće nema izlaz, odnosno da je bez prolaza."
+    },
+    "III-25": {
+      "number": "III-25",
+      "title": "Prestanak zabrane preticanja",
+      "image": "III-25.svg",
+      "description": "Obaveštava vozača o mestu na kome prestaje da važi zabrana preticanja svih motornih vozila."
+    },
+    "III-30": {
+      "number": "III-30",
+      "title": "Parkiralište",
+      "image": "III-30.svg",
+      "description": "Označava prostor određen i uređen za parkiranje vozila, uz eventualne dopunske oznake o načinu parkiranja i vrsti vozila."
+    },
+    "III-31": {
+      "number": "III-31",
+      "title": "Parking garaža",
+      "image": "III-31.svg",
+      "description": "Obaveštava vozača o javnoj (natkrivenoj) garaži namenjenoj za parkiranje vozila."
+    },
+    "III-34": {
+      "number": "III-34",
+      "title": "Bolnica",
+      "image": "III-34.svg",
+      "description": "Obaveštava vozača o blizini bolnice, zbog čega treba da smanji buku i ne upotrebljava zvučne signale."
+    },
+    "III-35": {
+      "number": "III-35",
+      "title": "Stanica za prvu pomoć",
+      "image": "III-35.svg",
+      "description": "Obaveštava vozača o mestu ili blizini stanice na kojoj se može dobiti prva pomoć."
+    },
+    "III-37": {
+      "number": "III-37",
+      "title": "Telefon",
+      "image": "III-37.svg",
+      "description": "Obaveštava vozača o mestu na kome se nalazi telefon (telefonska govornica)."
+    },
+    "III-38": {
+      "number": "III-38",
+      "title": "Benzinska stanica",
+      "image": "III-38.svg",
+      "description": "Obaveštava vozača o mestu ili blizini benzinske stanice za snabdevanje vozila gorivom."
+    },
+    "III-39": {
+      "number": "III-39",
+      "title": "Hotel ili motel",
+      "image": "III-39.svg",
+      "description": "Obaveštava vozače da se u blizini, u naznačenom pravcu, nalazi hotel ili motel gde mogu naći smeštaj."
+    },
+    "III-40": {
+      "number": "III-40",
+      "title": "Restoran",
+      "image": "III-40.svg",
+      "description": "Obaveštava vozače da se u blizini, u naznačenom pravcu, nalazi restoran u kojem se mogu poslužiti hranom."
+    },
+    "III-49": {
+      "number": "III-49",
+      "title": "Autobusko stajalište",
+      "image": "III-49.svg",
+      "description": "Obeležava mesto na kome se zaustavljaju autobusi radi ulaska i izlaska putnika."
+    },
+    "III-50": {
+      "number": "III-50",
+      "title": "Tramvajsko stajalište",
+      "image": "III-50.svg",
+      "description": "Obeležava mesto na kome se zaustavljaju tramvaji radi ulaska i izlaska putnika."
+    },
+    "III-53": {
+      "number": "III-53",
+      "title": "Informacije",
+      "image": "III-53.svg",
+      "description": "Obaveštava vozače i učesnike u saobraćaju o mestu gde se mogu dobiti turističke ili druge korisne informacije."
+    },
+    "III-68": {
+      "number": "III-68",
+      "title": "Autoput",
+      "image": "III-68.svg",
+      "description": "Označava mesto od koga počinje autoput i deo puta na kome važe posebna pravila saobraćaja koja se odnose na autoput."
+    },
+    "III-68.1": {
+      "number": "III-68.1",
+      "title": "Završetak autoputa",
+      "image": "III-68.1.svg",
+      "description": "Označava mesto na kome se završava autoput i prestaju da važe posebna pravila saobraćaja koja važe za autoput."
+    },
+    "III-21": {
+      "number": "III-21",
+      "title": "Motoput",
+      "image": "III-21.svg",
+      "description": "Označava mesto od koga počinje motoput (put rezervisan za saobraćaj motornih vozila) i deo puta na kome važe posebna pravila saobraćaja."
+    },
+    "III-22": {
+      "number": "III-22",
+      "title": "Završetak motoputa",
+      "image": "III-22.svg",
+      "description": "Označava mesto na kome se završava motoput i prestaju da važe posebna pravila saobraćaja koja važe za motoput."
+    },
+    "III-23.1": {
+      "number": "III-23.1",
+      "title": "Naseljeno mesto",
+      "image": "III-23.1.svg",
+      "description": "Označava mesto od koga počinje naselje i od koga važe pravila saobraćaja koja se primenjuju u naselju."
+    },
+    "III-24.1": {
+      "number": "III-24.1",
+      "title": "Završetak naseljenog mesta",
+      "image": "III-24.1.svg",
+      "description": "Označava mesto na kome se završava naselje i prestaju da važe pravila saobraćaja koja se primenjuju u naselju."
+    }
+  }
+}

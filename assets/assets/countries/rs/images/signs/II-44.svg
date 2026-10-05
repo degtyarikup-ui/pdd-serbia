@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 175.39363 175.39364"
+   height="49.499981mm"
+   width="49.499981mm"
+   sodipodi:docname="Serbia_road_sign_II-44.1.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4"
+     inkscape:cx="74.75"
+     inkscape:cy="90.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <foreignObject
+       id="foreignObject2819"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+    <foreignObject
+       id="foreignObject2819"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+    <foreignObject
+       id="foreignObject2819"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
+       x="0"
+       y="0"
+       width="1"
+       height="1" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1-7"
+     transform="translate(2890.2478,-528.36319)">
+    <path
+       id="path7749"
+       style="fill:#ffffff;fill-opacity:1;stroke:#343132;stroke-width:1.77163;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1"
+       d="m -2802.551,702.871 c -47.8137,0 -86.811,-38.9973 -86.811,-86.8109 0,-47.8138 38.9973,-86.8111 86.811,-86.8111 47.8138,0 86.811,38.9973 86.811,86.8111 0,47.8136 -38.9972,86.8109 -86.811,86.8109 z" />
+    <path
+       id="path7751"
+       style="fill:#1060a9;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m -2802.5501,698.5301 c -45.423,0 -82.4701,-37.0472 -82.4701,-82.4701 0,-45.4231 37.0471,-82.4701 82.4701,-82.4701 45.4231,0 82.4701,37.047 82.4701,82.4701 0,45.4229 -37.047,82.4701 -82.4701,82.4701" />
+  </g>
+  <g
+     transform="matrix(1.9872544,0,0,-1.9872547,99.05778,95.44971)"
+     id="g22550">
+    <path
+       id="path22552"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 0,0 v 17.76 l -8.46,-1.02 c -0.4652576,-0.03155 -1.02,0.3 -1.08,0.78 0,0.24 0.06,0.42 0.18,0.66 L 4.8,39.36 18.9,18.18 C 19.2,17.76 19.02,17.16 18.6,16.86 18.395231,16.74 18.291598,16.726882 18,16.74 L 9.54,17.76 V -28.56 H 0 v 9.6 c 0,9.36 -7.62,16.92 -16.98,16.92 h -4.08 l 0.9,-7.44 c 0.06,-0.48 -0.3,-0.9 -0.78,-0.96 -0.18,0 -0.36,0 -0.54,0.12 l -18.84,12.54 18.84,12.6 c 0.42,0.24 0.9,0.12 1.14,-0.3 0.18,-0.18 0.24,-0.3 0.18,-0.54 l -0.9,-7.5 h 4.08 C -10.44,6.48 -4.92,4.38 0,0"
+       sodipodi:nodetypes="ccccccccccccsscccccccccsc" />
+  </g>
+</svg>

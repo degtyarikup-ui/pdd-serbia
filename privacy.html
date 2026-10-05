@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="sr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Politika privatnosti — Auto testovi Srbija 2026</title>
+<style>
+  :root { color-scheme: light dark; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 32px 20px 80px;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    body { color: #e6e6e6; background: #121212; }
+    a { color: #7ab7ff; }
+  }
+  h1 { font-size: 1.5rem; margin-bottom: 4px; }
+  .updated { color: #767676; font-size: 0.9rem; margin-bottom: 2rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; }
+  ul { padding-left: 1.2rem; }
+  li { margin-bottom: 0.5rem; }
+</style>
+</head>
+<body>
+
+<h1>Politika privatnosti mobilne aplikacije „Auto testovi Srbija 2026&quot;</h1>
+<p class="updated">Datum poslednjeg ažuriranja: 14. avgust 2026.</p>
+
+<h2>1. Ko smo mi</h2>
+<p>Operater (vlasnik aplikacije): <strong>Sergej Degtjarik (Sergei Degtyarik)</strong>.<br>
+Kontakt za sva pitanja u vezi sa podacima: <strong>degtyarik.up@gmail.com</strong>.</p>
+<p>Ova politika opisuje obradu podataka u mobilnoj/veb aplikaciji <strong>„Auto testovi Srbija 2026&quot;</strong> (testovi i priprema za vozački ispit), dostupnoj za Android i kao veb-aplikacija.</p>
+
+<h2>2. Koji podaci se obrađuju</h2>
+<p>Aplikacija <strong>ne zahteva registraciju niti prijavljivanje</strong> — nema naloga, nema prijave preko Google-a ili bilo kog drugog servisa. Obrađuju se samo:</p>
+<ul>
+  <li><strong>Napredak učenja i podešavanja aplikacije</strong>: odgovori na pitanja, omiljeni sadržaj, rezultati probnih ispita, podešavanja interfejsa (npr. uključen/isključen izgovor teksta, tastilni odziv). Svi ovi podaci se čuvaju <strong>isključivo lokalno, na vašem uređaju</strong> — aplikacija ih nigde ne šalje.</li>
+  <li><strong>Jednokratni signal o instalaciji</strong>: pri prvom pokretanju aplikacije, jednom, šalje se anoniman događaj: nasumično generisan identifikator instalacije (nije povezan sa vašim identitetom ili nalogom), država, naziv i verzija aplikacije, platforma (Android/veb), jezik uređaja, i — na Android-u — proizvođač/model uređaja i verzija operativnog sistema. Ovo se koristi isključivo da bismo znali koliko se aplikacija instalira, bez reklamnih ili profilišućih ciljeva.</li>
+  <li><strong>Prijava greške u pitanju</strong> — samo ako ste je vi sami poslali. Uz svako pitanje postoji dugme „Prijavi grešku": napišete tekst svojim rečima i pritisnete „Pošalji". Uz tekst se prosleđuju podaci samog pitanja (identifikator, formulacija, broj testa, oblast, režim), verzija i platforma aplikacije, država i isti identifikator instalacije opisan iznad. Slanje se dešava <strong>isključivo na vašu radnju</strong>; ništa se ne šalje automatski. Molimo vas da <strong>u poruci ne navodite lične podatke</strong> — za ispravku greške u pitanju nisu potrebni.</li>
+  <li>Aplikacija <strong>ne sadrži oglase</strong> i <strong>ne koristi SDK-ove trećih strana za analitiku ili reklamiranje</strong>.</li>
+</ul>
+
+<h2>3. Svrha obrade</h2>
+<ul>
+  <li>pružanje funkcija aplikacije (testovi, treniranje, ispit, znakovi, propisi);</li>
+  <li>čuvanje vašeg napretka i podešavanja između pokretanja aplikacije, na vašem uređaju;</li>
+  <li>osnovna statistika o broju instalacija (jednokratni signal opisan u tački 2);</li>
+  <li>ispravljanje grešaka u pitanjima i materijalima na osnovu vaših prijava (tačka 2).</li>
+</ul>
+
+<h2>4. Gde se podaci čuvaju</h2>
+<ul>
+  <li><strong>Na uređaju</strong> — lokalno skladište aplikacije (SharedPreferences); ovi podaci ne napuštaju vaš uređaj i brišu se kada obrišete podatke aplikacije ili je deinstalirate.</li>
+  <li><strong>Jednokratni signal o instalaciji</strong> (tačka 2) šalje se na naš server (Cloudflare Worker), koji prosleđuje samo taj jedan događaj u naš privatni Telegram — radi obaveštenja o novoj instalaciji. Sam server te podatke ne čuva.</li>
+  <li><strong>Prijava greške u pitanju</strong> (tačka 2), ako ste je poslali, prolazi kroz isti server (Cloudflare Worker) i stiže u naš privatni Telegram, gde je čitamo i ispravljamo pitanje. Na serveru se čuva samo brojač slanja sa vaše instalacije (zaštita od spama), koji se automatski briše nakon 48 sati.</li>
+  <li><strong>Izgovor teksta (sinteza govora)</strong> obavlja se isključivo alatima <strong>operativnog sistema</strong> uređaja; aplikacija prosleđuje samo tekst za izgovaranje, bez trećih strana.</li>
+</ul>
+
+<h2>5. Pravni osnov</h2>
+<p>Operater obavlja delatnost u statusu samostalnog preduzetnika (self-employed) u Republici Belorusiji.</p>
+<p>Za korisnike u Republici Srbiji, obrada opisanih podataka zasniva se na legitimnom interesu operatera da obezbedi osnovnu statistiku korišćenja aplikacije (tačka 2), uz minimalan obim podataka koji ne omogućava identifikaciju korisnika, u skladu sa Zakonom o zaštiti podataka o ličnosti Republike Srbije.</p>
+
+<h2>6. Prosleđivanje trećim licima</h2>
+<p>Jedini spoljni servis koji se koristi je infrastruktura za prosleđivanje signala o instalaciji i vaših prijava grešaka (tačka 2):</p>
+<ul>
+  <li><strong>Cloudflare</strong> — obrada zahteva na serverskoj strani (Cloudflare Workers);</li>
+  <li>naš privatni <strong>Telegram</strong> nalog — prijem obaveštenja.</li>
+</ul>
+<p>Podaci se <strong>ne prodaju</strong> i ne dele sa reklamnim mrežama niti bilo kojim drugim trećim licima.</p>
+
+<h2>7. Rok čuvanja</h2>
+<p>Podaci o napretku i podešavanjima čuvaju se lokalno na vašem uređaju dok god koristite aplikaciju, i brišu se deinstalacijom aplikacije ili brisanjem njenih podataka u podešavanjima uređaja.</p>
+<p>Jednokratni signal o instalaciji (tačka 2) čuva se u našoj internoj Telegram istoriji radi statistike; pošto ne sadrži podatke koji vas identifikuju, ne postoji poseban postupak brisanja po zahtevu.</p>
+<p>Prijave grešaka u pitanjima čuvaju se u istoj privatnoj Telegram prepisci dok greška ne bude ispravljena, a zatim se brišu. Ako ste poslali poruku i želite da je obrišemo, pišite nam na <strong>degtyarik.up@gmail.com</strong>.</p>
+
+<h2>8. Vaša prava</h2>
+<p>Možete nas kontaktirati na <strong>degtyarik.up@gmail.com</strong> za bilo koja pitanja o obradi podataka. Pošto aplikacija ne kreira naloge niti čuva podatke koji vas identifikuju na serveru, brisanje svih podataka vezanih za vaše korišćenje aplikacije postižete jednostavno deinstalacijom aplikacije ili brisanjem njenih podataka u podešavanjima uređaja.</p>
+
+<h2>9. Bezbednost</h2>
+<p>Jednokratni signal o instalaciji šalje se isključivo preko zaštićene veze (HTTPS). Podaci o napretku čuvaju se lokalno na vašem uređaju i ne prenose se nikuda.</p>
+
+<h2>10. Deca</h2>
+<p>Aplikacija je namenjena pripremi za vozački ispit i njome se po pravilu koriste osobe koje se pripremaju za sticanje vozačke dozvole. Aplikacija ne traži od korisnika ime, godine, adresu, kontakt niti druge lične podatke i ne prikuplja ih automatski — ni od odraslih ni od dece. Jedino mesto gde korisnik može uneti slobodan tekst jeste obrazac za prijavu greške u pitanju (tačka 2); navođenje ličnih podataka tamo nije potrebno niti preporučeno.</p>
+
+<h2>11. Izmene politike</h2>
+<p>Ova politika će biti ažurirana ukoliko dođe do značajnih izmena u načinu obrade podataka; datum na vrhu dokumenta će biti odgovarajuće izmenjen.</p>
+
+</body>
+</html>

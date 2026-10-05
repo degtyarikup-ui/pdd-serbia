@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="46.302086mm"
+   height="46.302086mm"
+   viewBox="0 0 46.302086 46.302086"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="Serbia road sign II-46.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8507295"
+     inkscape:cx="99.623622"
+     inkscape:cy="54.722835"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.227064,-49.477081)">
+    <path
+       id="path1508"
+       d="m 104.37123,49.703921 c 12.64167,0 22.93108,10.28941 22.93108,22.917325 0,12.627914 -10.28941,22.931079 -22.93108,22.931079 -12.627916,0 -22.917326,-10.303165 -22.917326,-22.931079 0,-12.627915 10.28941,-22.917325 22.917326,-22.917325 z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:#373435;stroke-width:0.45368;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path1509"
+       d="m 104.37123,50.911001 c 11.99514,0 21.71024,9.711669 21.71024,21.710245 0,11.995143 -9.7151,21.706803 -21.71024,21.706803 -11.981381,0 -21.706805,-9.71166 -21.706805,-21.706803 0,-11.998576 9.725424,-21.710245 21.706805,-21.710245"
+       style="fill:#1060a9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.43898" />
+    <path
+       id="path1510"
+       d="m 92.052822,78.477823 5.158465,8.838166 5.199733,-8.838166 h -2.565476 l 0.01365,-11.7269 c 0.134136,-2.324749 2.335056,-4.164599 4.687316,-4.164599 v -0.01365 c 2.37633,0.05167 4.40533,2.053064 4.41908,4.432833 h -0.0137 v 20.324342 h 5.32009 V 67.046773 h 0.0136 c 0,-5.333846 -4.51537,-9.794198 -9.84577,-9.794198 v 0.01365 c -5.467974,-0.09261 -9.900807,4.405323 -9.900807,9.684149 h 0.02437 v 11.527442 z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.43898" />
+  </g>
+</svg>

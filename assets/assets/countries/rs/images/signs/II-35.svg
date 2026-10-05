@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="600.18079mm"
+   viewBox="0 0 600 600.18078"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3408"><path
+         d="M 0,0 H 1024.02 V 1024.02 H 0 Z"
+         transform="translate(-0.0030135,-3.0135019e-5)"
+         id="path3408" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3409"><path
+         d="M 0,0 H 1024.02 V 1024.02 H 0 Z"
+         transform="translate(-0.0030135,-3.0135019e-5)"
+         id="path3409" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3410"><path
+         d="M 0,0 H 1024.02 V 1024.02 H 0 Z"
+         transform="translate(-0.0030135,-3.0135019e-5)"
+         id="path3410" /></clipPath></defs><g
+     id="layer1"
+     transform="translate(-83.872915,-88.370833)"><path
+       id="path1144"
+       d="m 383.89552,91.293933 c 163.80003,0 297.0543,133.480067 297.0543,297.280297 0,163.61926 -133.25427,297.0543 -297.0543,297.0543 -163.80017,0 -297.099505,-133.43504 -297.099505,-297.0543 0,-163.80023 133.299335,-297.280297 297.099505,-297.280297 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#343132;stroke-width:5.8462;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:2.61313;stroke-dasharray:none;stroke-opacity:1" /><ellipse
+       style="fill:#1060a9;fill-opacity:1;stroke:#343132;stroke-width:0"
+       id="path1"
+       cx="380.01581"
+       cy="392.22784"
+       rx="237.85716"
+       ry="242.14287" /><path
+       id="path26314-7"
+       style="fill:#eb3d00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.4209"
+       d="M 383.87993 106.24623 C 228.49199 106.24623 101.75503 232.9828 101.75503 388.37113 C 101.75503 543.7591 228.49199 670.49602 383.87993 670.49602 C 539.26962 670.49602 665.99862 543.7591 665.99862 388.37113 C 665.99862 232.9828 539.26962 106.24623 383.87993 106.24623 z M 383.94245 178.56171 A 209.83406 209.83429 0 0 1 593.77616 388.39541 A 209.83406 209.83429 0 0 1 549.23417 516.96224 L 255.37562 223.10369 A 209.83406 209.83429 0 0 1 383.94245 178.56171 z M 218.60939 259.87664 L 512.46071 553.72847 A 209.83406 209.83429 0 0 1 383.94245 598.2286 A 209.83406 209.83429 0 0 1 174.10927 388.39541 A 209.83406 209.83429 0 0 1 218.60939 259.87664 z " /></g></svg>
